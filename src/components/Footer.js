@@ -4,9 +4,9 @@ import { FiGithub, FiLinkedin, FiInstagram, FiFacebook } from "react-icons/fi";
 
 const Footer = () => {
   const socialLinks = [
-    { icon: <FiGithub />, url: "https://github.com" },
-    { icon: <FiLinkedin />, url: "https://linkedin.com" },
-    { icon: <FiFacebook />, url: "https://twitter.com" },
+    { icon: <FiGithub />, url: "https://github.com/KarventhanFD/" },
+    { icon: <FiLinkedin />, url: "https://www.linkedin.com/in/karventhan07" },
+    { icon: <FiFacebook />, url: "https://www.facebook.com/karventhan07" },
     { icon: <FiInstagram />, url: "https://www.instagram.com/karventhan__07/" },
   ];
 
